@@ -1,0 +1,10 @@
+Population / Disposition	Count	Admission State	Reason / Rule
+Deduplicated broad discovery audit	510	Discovery only	Post-deduplication denominator across discovery routes; not a demonstrated recall estimate.
+Working academic candidate pool	444	Candidate pool	Post-canonicalisation academic candidates.
+Source-checked candidates	299	Adjudicated for substantive eligibility	186 independently verified + 113 earlier source/seed checked.
+Active academic synthesis corpus	148	Included	Source-defensible and performs distinct analytical work; direction-neutral screening.
+Source-checked non-active candidates	151	Not active	No distinct proposition, boundary, design, or institutional mechanism material to predefined scope after canonicalisation.
+Lower-priority unconfirmed candidates	145	Excluded from evidence base	Source defensibility not independently established; direct-relevance score-3 queue is zero.
+Policy/context layer	3	Context only	Non-academic contextual sources; excluded from academic evidence count.
+Forensic subset	27	Risk-based audit subset	69 source-location rows covering 51 load-bearing claim IDs.
+Proposition ledger	118	Operative synthesis units	Aggregate current count before dependence adjustment; exact rowwise register retained in project audit state.
