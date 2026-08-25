@@ -1,0 +1,9 @@
+Evidence Type	Minimum Credibility Dimensions	If Unresolved
+Formal theory	Internal derivation; key-assumption sensitivity; institutional mapping; equilibrium domain	Bound to assumptions; no empirical magnitude.
+Causal / quasi-experimental	Identifying assumption; support; treatment definition; threats; external validity	Downgrade causal language or restrict to identified support.
+Observational / descriptive	Confounding; selection; measurement; denominator and sampling frame	Association/descriptive language only.
+Structural / calibrated	Identification/calibration basis; parameter sensitivity; counterfactual dependence	Label as model-dependent counterfactual.
+Simulation / computational	Environment validity; parameter dependence; benchmark; empirical calibration	Confine inference to simulated/validation environment.
+Qualitative / case	Sampling; triangulation; coverage/saturation; coding; inferential scope	Reported process/constraint only.
+Legal / doctrinal	Jurisdiction; authority; temporal validity; contested interpretation	Legal/institutional interpretation, not realised effect.
+Cross-domain transfer	Mechanism equivalence; institutional distance; treatment/outcome comparability	Mechanism-only transfer; no AI-specific magnitude.
