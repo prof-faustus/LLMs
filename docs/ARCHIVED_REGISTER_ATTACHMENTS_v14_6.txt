@@ -1,0 +1,29 @@
+ARCHIVED REGISTER ATTACHMENTS — v14.6
+
+These exact byte-frozen historical machine-readable registers are to be uploaded as separate supplementary files where the journal system permits. They are retained in the project File Library and must not be reconstructed from prose.
+
+1. ai_governance_working_corpus_v13_10.csv
+   SHA-256 7062d3e1a1e41eb1c3356794d4360aa14317f844d9fd2e4a986ff8849e3ce1a5
+   Role: row-level working candidate / screening corpus.
+
+2. ai_governance_proposition_ledger_v13_10.csv
+   SHA-256 93f52d6fe78724470c0b91b1d0adb693680be9c0413f871ff6c88c0fc891021d
+   Role: proposition-design-evidence ledger.
+
+3. ai_governance_evidence_dependence_v13_10.csv
+   SHA-256 333a592ac589c539da27294a5389e048de2d47aa80b4640b0d75948e8f2935f3
+   Role: evidence-dependence edge register.
+
+4. ai_governance_fulltext_extraction_v13_10.csv
+   SHA-256 52536c371e9ef1e4101b936d51579e2abf3b0c02bce0ee94cda90d0dd857aa91
+   Role: page/source-location forensic extraction register.
+
+5. ai_governance_verification_tranche_v13_10.csv
+   SHA-256 94ede338e260d0845bc65b3c09acc53b808666fc341427573e0b43e7a295281f
+   Role: canonical-source verification tranche.
+
+6. ai_governance_policy_context_delta_v13_10.csv
+   SHA-256 ae061f1885564c0d078d77b7bc923022491c580ac80d1ed3dd5cf302782ddcfc
+   Role: separate policy/context register.
+
+The current v14.6 tension/boundary matrix, evidence-role crosswalk, disposition audit, credibility framework, high-centrality seed list and synthesis-proposition summary are physically bundled in 04_AUDIT_MATERIALS.
