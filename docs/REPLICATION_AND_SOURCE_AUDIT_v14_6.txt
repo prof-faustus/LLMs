@@ -1,0 +1,11 @@
+AI Governance systematic synthesis v14.6
+Replication and source-audit scope
+Date: 25 August 2026
+
+v14.6 records minor methodological/synthesis corrections. It does not claim a new numerical replication exercise.
+
+The review distinguishes source verification, full-text/source-location inspection, replication-material inspection, and actual numerical execution. Code or repository inspection is not described as replication. The archived proposition and full-text registers preserve study-level statuses where replication or supplementary materials were inspected.
+
+The v14.6 non-regression rule is: no study is upgraded in inferential status merely because code, supplementary files, or a replication repository exists. Formal results remain formal results; structural counterfactuals remain model-dependent counterfactuals; simulations remain simulations; descriptive studies remain descriptive; and cross-domain magnitudes are not transferred to AI governance without a direct identification argument.
+
+No new replication-execution claim is made in this v14.6 package.
