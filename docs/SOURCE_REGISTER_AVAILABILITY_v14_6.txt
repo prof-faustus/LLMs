@@ -1,0 +1,29 @@
+AI Governance systematic synthesis v14.6
+Source-register availability and non-reconstruction statement
+Date: 25 August 2026
+
+The v14.6 journal package contains the current machine-readable audit objects used by the final synthesis: the 148-academic-plus-3-context evidence-role crosswalk, credibility framework, Type I/Type II tension-and-boundary matrix, synthesis-proposition table, high-centrality seed list, aggregate disposition audit and archive-register inventory.
+
+The exact historical rowwise registers are preserved as byte-frozen project artifacts and are supplied as separate supplementary attachments where the journal submission system permits. They are not reconstructed from prose, summaries or inferred counts. Their canonical identities are:
+
+ai_governance_working_corpus_v13_10.csv
+SHA-256 7062d3e1a1e41eb1c3356794d4360aa14317f844d9fd2e4a986ff8849e3ce1a5
+
+ai_governance_proposition_ledger_v13_10.csv
+SHA-256 93f52d6fe78724470c0b91b1d0adb693680be9c0413f871ff6c88c0fc891021d
+
+ai_governance_evidence_dependence_v13_10.csv
+SHA-256 333a592ac589c539da27294a5389e048de2d47aa80b4640b0d75948e8f2935f3
+
+ai_governance_fulltext_extraction_v13_10.csv
+SHA-256 52536c371e9ef1e4101b936d51579e2abf3b0c02bce0ee94cda90d0dd857aa91
+
+ai_governance_verification_tranche_v13_10.csv
+SHA-256 94ede338e260d0845bc65b3c09acc53b808666fc341427573e0b43e7a295281f
+
+ai_governance_policy_context_delta_v13_10.csv
+SHA-256 ae061f1885564c0d078d77b7bc923022491c580ac80d1ed3dd5cf302782ddcfc
+
+The final manuscript reports the journal-facing aggregate state: 510 deduplicated discovery records; 444 working academic candidates; 148 included academic works; 296 non-included academic candidates (145 lower-priority unconfirmed plus 151 source-checked records not performing a distinct final analytical role); 3 separately coded policy/context sources; 118 proposition-ledger claims; 27 source-located studies; 69 source-location rows; and 51 load-bearing claim IDs.
+
+The separation between current audit tables and byte-frozen historical registers is deliberate. It preserves source integrity while allowing reviewers to inspect the exact row-level artifacts rather than a recreated approximation.
