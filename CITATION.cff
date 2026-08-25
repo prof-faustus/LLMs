@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these replication materials, please cite the associated article and this repository."
+title: "The Economics of Artificial Intelligence Governance — Replication Materials"
+type: dataset
+authors:
+  - family-names: Wright
+    given-names: Craig S.
+version: "14.6"
+date-released: 2026-08-25
+repository-code: "https://github.com/prof-faustus/LLMs"
+license: CC-BY-4.0
